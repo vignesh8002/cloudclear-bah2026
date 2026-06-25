@@ -1,0 +1,7 @@
+*.npy
+*.pth
+*.tif
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+cloudclear_data/
